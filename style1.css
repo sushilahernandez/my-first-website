@@ -3,6 +3,11 @@
 	color: white;
 }
 
+.form{
+	display:inline-block;
+	text-align: center;
+}
+
 /* second row
 .second-row{
 	background-image: url('https://s-media-cache-ak0.pinimg.com/236x/49/5c/a2/495ca2c1079f95ff025d5dcbeb561138.jpg');
